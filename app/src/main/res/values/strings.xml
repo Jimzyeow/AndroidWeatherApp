@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather Updates</string>
+    <string name="weather_updates">Weather Updates</string>
+    <string name="enter_your_city_name">Enter your city name</string>
+    <string name="country_code">Enter your Country Code (Optional)</string>
+    <string name="show_weather">Show Weather</string>
+</resources>
